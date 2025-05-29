@@ -22,7 +22,7 @@ The current solution uses a using a smart combo of:
 
 We can modify the logic to run over multiple pdf files instead of just one. We can also extend the keywords and the rules set for pattern field_contexts to work for other fund types.
 
-This definitely needs a lot of work but we can slowly get there by further fine tuning the logic and pattern or using a different more powerful model after research. 
+This definitely needs a lot of work, but we can gradually get there by further fine-tuning the logic and patterns, or by using a more powerful model after conducting ample research.
 
 
 
